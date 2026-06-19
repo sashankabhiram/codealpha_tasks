@@ -13,7 +13,7 @@ Created a wireframe for a Travel Booking Website focusing on navigation, search,
 ## Task 2 - Travel Booking Website High-Fidelity Design
 
 Figma Link:
-https://www.figma.com/design/Y5Nay6Bj8s7ONJwgVlN0gN/High-Fiedility?node-id=0-1&t=C7ShaOoVYh6JOm0Y-1
+https://www.figma.com/design/Y5Nay6Bj8s7ONJwgVlN0gN/High-Fidelity?node-id=0-1&t=C7ShaOoVYh6JOm0Y-1
 Description:
 Designed a high-fidelity prototype with modern UI elements, typography, color palette, and responsive layouts.
 
@@ -22,7 +22,7 @@ Designed a high-fidelity prototype with modern UI elements, typography, color pa
 ## Task 3 - Flipkart UX Case Study
 
 Document Link:
-https://1drv.ms/w/c/B65F00230D951C09/IQAO5GCTpUypQ6b4X6tEvVblAdcn0jR9KqsaUWM9nCyGNv0?e=zskpsL)
+https://1drv.ms/w/c/B65F00230D951C09/IQAO5GCTpUypQ6b4X6tEvVblAdcn0jR9KqsaUWM9nCyGNv0?e=zskpsL
 
 Description:
 Conducted a UX case study on Flipkart by analyzing the user journey, identifying strengths and weaknesses, and proposing improvements such as:
